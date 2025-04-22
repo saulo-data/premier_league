@@ -186,7 +186,7 @@ def get_team() -> None:
 with st.sidebar:
     st.image('static/image.jpeg', 
              caption="Saulo Faria - Data Scientist Specialized in Football")
-    st.write("This App was designed in order to get an overview of Spanish LaLiga regarding xG Open Play Per 100 Passes")
+    st.write("This App was designed in order to get an overview of English Premier League regarding xG Open Play Per 100 Passes")
 
     st.subheader("My links (pt-br)")
     st.link_button("Aposta Consciente", "https://apostaconsciente.hotmart.host/product-page-88be95cc-1892-4fa6-b364-69a271150f8f", use_container_width=True)
